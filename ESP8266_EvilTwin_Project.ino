@@ -10,7 +10,7 @@
 #include <Fonts/FreeMono9pt7b.h>
 
 /* AP SSID & Password */
-const char AP_SSID[] = "ZeroTwin v1.0";
+const char AP_SSID[] = "poco m3";
 const char AP_PASS[] = "zero8888";
 
 /* OLED Configuration */
